@@ -1,3 +1,3 @@
 # carpentry_course
 
-it is nice to have guacamole for lunch.
+It is nice to have guacamole for lunch!
